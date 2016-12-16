@@ -4,7 +4,7 @@ module.exports = {
     init: function(project) {
         console.log('Selected SPA Plug: AngularJS 1.0 - Bootstrap');
 
-        this.sourcePath = './base_code/';
+        this.sourcePath = __dirname + '/base_code/';
         this.fs = require('fs');
         this.plugUtils = require('powercrud-plug-utils');
 

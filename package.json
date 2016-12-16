@@ -1,6 +1,6 @@
 {
   "name": "powercrud-spa-angular1-bootstrap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "PowerCRUD plug to generate SPA Angular and Bootstrap Apps",
   "main": "index.js",
   "scripts": {
