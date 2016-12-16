@@ -1,5 +1,5 @@
 {
-  "name": "pwc-spa-angular1-bootstrap",
+  "name": "powercrud-spa-angular1-bootstrap",
   "version": "0.1.0",
   "description": "PowerCRUD plug to generate SPA Angular and Bootstrap Apps",
   "main": "index.js",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/TiagoSilvaPereira/pwc-spa-angular1-bootstrap/issues"
   },
-  "homepage": "https://github.com/TiagoSilvaPereira/pwc-spa-angular1-bootstrap#readme"
+  "homepage": "https://github.com/TiagoSilvaPereira/pwc-spa-angular1-bootstrap#readme",
+  "dependencies": {
+    "powercrud-plug-utils": "^0.1.0"
+  }
 }
