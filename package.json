@@ -1,0 +1,25 @@
+{
+  "name": "pwc-spa-angular1-bootstrap",
+  "version": "0.1.0",
+  "description": "PowerCRUD plug to generate SPA Angular and Bootstrap Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoSilvaPereira/pwc-spa-angular1-bootstrap.git"
+  },
+  "keywords": [
+    "powercrud",
+    "angular",
+    "plug",
+    "bootstrap"
+  ],
+  "author": "Tiago Silva Pereira Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TiagoSilvaPereira/pwc-spa-angular1-bootstrap/issues"
+  },
+  "homepage": "https://github.com/TiagoSilvaPereira/pwc-spa-angular1-bootstrap#readme"
+}
