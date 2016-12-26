@@ -1,20 +1,24 @@
 {
-  "name": "angularjs_lumx_kickstart",
+  "name": "powercrud-spa-angular1-bootstrap-basecode",
   "version": "0.0.1",
-  "description": "A simple AngularJS 1.0 and Lumx framework starter",
+  "description": "Base code for the powercrud-spa-angular1-bootstrap Plug",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "angularjs",
-    "lumx",
-    "kickstart"
+    "basecode",
+    "powercrud"
   ],
   "author": "Tiago Silva Pereira Rodrigues",
   "license": "MIT",
   "dependencies": {
+    "angular": "^1.6.1",
+    "angular-animate": "^1.6.1",
     "angular-ui-router": "^0.3.2",
-    "jquery": "^3.1.1"
+    "jquery": "^3.1.1",
+    "ng-file-upload": "^12.2.13",
+    "ui-bootstrap": "^0.1.6"
   }
 }
